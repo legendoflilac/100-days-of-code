@@ -8,15 +8,15 @@
 
 **Link(s) to work:** 
 
-[React Docs -- Hello World](https://reactjs.org/docs/hello-world.html)
+1. [React Docs -- Hello World](https://reactjs.org/docs/hello-world.html)
 
-[React Docs -- Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+2. [React Docs -- Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
-[React Docs -- Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+3. [React Docs -- Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
 
-[React Docs -- Components and Props](https://reactjs.org/docs/components-and-props.html)
+4. [React Docs -- Components and Props](https://reactjs.org/docs/components-and-props.html)
 
-[React Docs -- State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+5. [React Docs -- State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
 
 ### Day 2: October 24, 2019
