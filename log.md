@@ -7,11 +7,17 @@
 **Thoughts**: No real coding done today, just a lot of reading docs and figuring out the basics of React again. I liked the structure of the React docs as well--it gave me some ideas about how to structure my own documentation/tutorials in the future. 
 
 **Link to work**: 
+
 [React Docs -- Hello World](https://reactjs.org/docs/hello-world.html)
+
 [React Docs -- Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
 [React Docs -- Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+
 [React Docs -- Components and Props](https://reactjs.org/docs/components-and-props.html)
+
 [React Docs -- State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
 
 ### Day 2: October 24, 2019
 
