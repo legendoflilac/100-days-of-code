@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 4: October 26, 2019
+
+**Today's Progress:** More docs!
+
+**Thoughts:** I gleaned more information about React and forked the Tic Tac Toe pen on CodePen so I can follow along with the tutorial tomorrow. 
+
+**Link(s) to work:** 
+
+1. [React Docs -- Handling Events](https://reactjs.org/docs/handling-events.html)
+
+2. [React Docs -- Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+
+3. [React Docs -- Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+
+4. [React Docs -- Forms](https://reactjs.org/docs/forms.html)
+
+5. [React Docs -- Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
 ### Day 3: October 25, 2019
 
 **Today's Progress:** Reading the docs!
