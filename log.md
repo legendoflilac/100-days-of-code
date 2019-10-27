@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 5: October 27, 2019
+
+**Today's Progress:** React Docs and the React Tic-Tac-Toe tutorial.
+
+**Thoughts:** React is starting to feel a little more familiar, but creating components, knowing the flow of information from one component to another, and doing anything outside of the examples still feels like a stretch. I feel a lot like I did when I was doing the algorithm challenges back when I was just learning JavaScript--like I wasn't given the tools to solve the problems and yet am still somehow expected to come up with an elegant answer. There's got to be a balance between hand-holding and throwing the baby into the ocean, but I haven't found it yet.
+
+**Link(s) to work:** 
+
+1. [React Docs -- Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+
+2. [React Docs -- Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+3. [CodePen React Tic-Tac-Toe](https://codepen.io/legendoflilac/pen/xxxrXXP)
+
 ### Day 4: October 26, 2019
 
 **Today's Progress:** More docs!
