@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 7: October 29, 2019
+
+**Today's Progress:** Completed the rest of the React challenges, attempted Redux and React/Redux challenges with varying degress of success. 
+
+**Thoughts:** Throwing another framework in the mix definitely made things hard today. Makes me wonder about how the front-end libraries projects are going to go, especially since I haven't looked at Bootstrap, SASS, and jQuery in a while... let alone remember how to interact with certain parts of HTML and CSS. This could be a real uphill battle for a bit, but I know consistent daily effort is key.
+
+**Link(s) to work:**
+1. [freeCodeCamp -- Front End Libraries -- React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+
+2. [freeCodeCamp -- Front End Libraries -- Redux](https://www.freecodecamp.org/learn/front-end-libraries/redux/)
+
+3. [freeCodeCamp -- Front End Libraries -- React and Redux](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/)
+
 ### Day 6: October 28, 2019
 
 **Today's Progress:** Tackled fCC's React challenges again, this time with much greater understanding. Tomorrow I will start with the challenge [Optimize Re-Renders with shouldComponentUpdatePassed](https://www.freecodecamp.org/learn/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate). 
