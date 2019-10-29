@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: October 28, 2019
+
+**Today's Progress:** Tackled fCC's React challenges again, this time with much greater understanding. Tomorrow I will start with the challenge [Optimize Re-Renders with shouldComponentUpdatePassed](https://www.freecodecamp.org/learn/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate). 
+
+**Thoughts:** I felt more confident doing these challenges a second time. This helped cement more of the fundamentals and helped me understand why I'm writing the code, rather than just blindly following the prompts. 
+
+**Link(s) to work:** 
+
+1. [freeCodeCamp -- Front End Libraries -- React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+
 ### Day 5: October 27, 2019
 
 **Today's Progress:** React Docs and the React Tic-Tac-Toe tutorial.
@@ -12,7 +22,7 @@
 
 2. [React Docs -- Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
-3. [CodePen React Tic-Tac-Toe](https://codepen.io/legendoflilac/pen/xxxrXXP)
+3. [CodePen React -- Tic-Tac-Toe](https://codepen.io/legendoflilac/pen/xxxrXXP)
 
 ### Day 4: October 26, 2019
 
