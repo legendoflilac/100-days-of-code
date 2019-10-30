@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: October 30, 2019
+
+**Today's Progress:** Looked at jQuery and laid the foundations for the random quote machine project.
+
+**Thoughts:** I refreshed myself on jQuery since I think it will be key to understanding and working with this random quote project. I then worked on adding elements to the pen I'm building this in to pass some of the easier tests. The main difficulty will be building script that gets the author/text in place and generates a new quote. 
+
+**Link(s) to work:**
+1. [CodePen -- Random Quote Generator (WIP)](https://codepen.io/legendoflilac/pen/xxxXOmy)
+
+2. [freeCodeCamp -- Front End Libraries -- jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery/)
+
 ### Day 7: October 29, 2019
 
 **Today's Progress:** Completed the rest of the React challenges, attempted Redux and React/Redux challenges with varying degress of success. 
