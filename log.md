@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: October 31, 2019
+
+**Today's Progress:** Worked on the random quote machine project.
+
+**Thoughts:** After researching and trying to pull together ideas to make the quote generator work, I now have part of the code working. I can generate the mock quotes when the page loads, but I haven't gotten it to generate a new quote when the "New Quote" button is pressed. One of my setbacks this time was that I didn't put parentheses around `document` in my `$(document).ready()` function... if I had seen that sooner, it would have saved me some time. Live and learn! (Happy Halloween!)
+
+**Link(s) to work:**
+1. [CodePen -- Random Quote Generator (WIP)](https://codepen.io/legendoflilac/pen/xxxXOmy)
+
 ### Day 8: October 30, 2019
 
 **Today's Progress:** Looked at jQuery and laid the foundations for the random quote machine project.
