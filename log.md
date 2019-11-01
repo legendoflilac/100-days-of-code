@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: November 1, 2019
+
+**Today's Progress:** Completed the random quote machine project.
+
+**Thoughts:** Today was a healthy mix of playing with CSS and trying various methods to get the quote to tweet out properly. Another issue was—you guessed it—a typo in the jQuery selector! I was happy that's all it was. I also learned a bit about URL encoding with `encodeURI()`, `preventDefault()` for getting the the Twitter stuff to work, and cool things one can do with Font Awesome. Finishing a project this soon is really cool since I'm 10% of the way to the goal of 100 days!
+
+**Link(s) to work:**
+1. [CodePen -- Random Quote Generator](https://codepen.io/legendoflilac/pen/xxxXOmy)
+
 ### Day 9: October 31, 2019
 
 **Today's Progress:** Worked on the random quote machine project.
