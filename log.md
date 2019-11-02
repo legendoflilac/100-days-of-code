@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 11: November 2, 2019
+
+**Today's Progress:** Started markdown previewer.
+
+**Thoughts:** Time to throw myself at another project! Today I played with React to see how it would go. After I got some items to render on-screen, I began to think about how to structure the app and what parts will be stateful and stateless. 
+
+**Link(s) to work:**
+1. [CodePen -- Markdown Previewer (WIP)](https://codepen.io/legendoflilac/pen/GRRyBLz)
+
 ### Day 10: November 1, 2019
 
 **Today's Progress:** Completed the random quote machine project.
