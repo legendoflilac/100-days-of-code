@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: November 3, 2019
+
+**Today's Progress:** Continued markdown previewer project.
+
+**Thoughts:** I focused less on breaking up the app into different components and instead researched how to get marked.js to work in the intended manner. I learned that passing `{marked(this.state.input)}` displays the return value from marked, but in order to really preview how the markdown will look, it needs to be passed as HTML. This is accomplished with the `dangerouslySetInnerHTML` property in React. There were some other aspects of marked.js that needed to be changed in order to work in CodePen, namely the way links are handled. [This forum post](https://www.freecodecamp.org/forum/t/use-of-jquery-in-react/219850/13) helped explain some of that. 
+
+**Link(s) to work:**
+1. [CodePen -- Markdown Previewer (WIP)](https://codepen.io/legendoflilac/pen/GRRyBLz)
+
 
 ### Day 11: November 2, 2019
 
