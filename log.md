@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 13: November 4, 2019
+
+**Today's Progress:** Continued markdown previewer project, with a focus on CSS.
+
+**Thoughts:** CSS seems completely foreign to me sometimes. What I intend and what happens on screen are very different things sometimes. I still have to look into breaking the app into components for practice, but I'm so focused on the design aspect that the React stuff is gone by the wayside in my mind.
+
+**Link(s) to work:**
+1. [CodePen -- Markdown Previewer (WIP)](https://codepen.io/legendoflilac/pen/GRRyBLz)
+
 ### Day 12: November 3, 2019
 
 **Today's Progress:** Continued markdown previewer project.
