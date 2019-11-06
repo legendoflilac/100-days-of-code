@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: November 6, 2019
+
+**Today's Progress:** Started drum machine project.
+
+**Thoughts:** I have the larger idea of the app written in React, but due to some of the tests I need to pass this time I may have to break apart the code into smaller components. Additionally, I'm not super sure what to use for audio. I'm torn between using the same audio files as in the sample project and finding some other audio to use to make it more fun. I'm also not sure how to handle keydown events in React, so that's something I need to learn and implement.
+
+**Link(s) to work:**
+1. [CodePen -- Drum Machine (WIP)](https://codepen.io/legendoflilac/pen/gOOeENK)
+
 ### Day 14: November 5, 2019
 
 **Today's Progress:** Finished (?) markdown previewer project.
