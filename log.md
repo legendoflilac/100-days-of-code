@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: November 4, 2019
+
+**Today's Progress:** Finished (?) markdown previewer project.
+
+**Thoughts:** I started to not be looking forward to this project because I was struggling so much getting the design to look how I envisioned it. I had to have a moment today where I just accepted it where it was, ran the tests on it, saw that they passed, and was just happy I did that much. There may come a period of time when I want to revise, but for right now, it's just going to look like this.
+
+**Link(s) to work:**
+1. [CodePen -- Markdown Previewer](https://codepen.io/legendoflilac/pen/GRRyBLz)
+
 
 
 ### Day 13: November 4, 2019
