@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: November 8, 2019
+
+**Today's Progress:** Drum Machine project.
+
+**Thoughts:** I was really optimistic that I would understand this better today, but I'm pretty sure I confused myself even more. Still haven't gotten even one button to work yet. 
+
+**Link(s) to work:**
+1. [CodePen -- Drum Machine (WIP)](https://codepen.io/legendoflilac/pen/gOOeENK)
+
+
 ### Day 16: November 7, 2019
 
 **Today's Progress:** Drum Machine project.
