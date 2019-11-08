@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 16: November 7, 2019
+
+**Today's Progress:** Drum Machine project.
+
+**Thoughts:** It's one of those days where I don't know what I'm doing. I don't even know where to start for handling the key presses and playing the audio. I've been looking at how other people completed the project for reference, but I don't want to use ideas that work but are incomprehensible to me. I need to be able to understand what's going on in the project. I started to work on just getting one button to work, so we'll see if I can complete that during tomorrow's coding time.
+
+**Link(s) to work:**
+1. [CodePen -- Drum Machine (WIP)](https://codepen.io/legendoflilac/pen/gOOeENK)
+
 ### Day 15: November 6, 2019
 
 **Today's Progress:** Started drum machine project.
