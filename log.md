@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: November 10, 2019
+
+**Today's Progress:** Got the display and sound to work! Also did some basic design work with CSS Grid.
+
+**Thoughts:** Made a few leaps in progress today thanks to some trial and error and explanations of how to get audio to play. I'm nearly done with the project, but there's a few tests that I failed when I ran the fCC test suite. Tomorrow I'll have to see how to fix those issues.
+
+**Link(s) to work:**
+1. [CodePen -- Drum Machine (WIP)](https://codepen.io/legendoflilac/pen/gOOeENK)
+
+
 ### Day 18: November 9, 2019
 
 **Today's Progress:** Drum Machine project.
