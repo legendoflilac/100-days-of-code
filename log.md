@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: November 11, 2019
+
+**Today's Progress:** After some lengthy debugging, I managed to finish it and pass all the tests! I had to use `.keyCode` instead of `.key` for one of the tests, which I only found out after some intense digging through the fCC forums. Even though `.keyCode` should be deprecated according to MDN, sometimes you have to work within what the tests detect. For the other test, I had to re-read and understand User Story #3 and ask myself if I was really fulfilling this criterion in order to find out why User Story #4 wasn't passing. Once I fixed those `id`s, I got 8/8 tests passed!
+
+**Thoughts:** It took a long time to find those two relatively minor bugs, but I'm feeling accomplished (if a bit tired) overall. I'm a bit anxious about the next project, which is a calculator, since that will have a lot more moving pieces.
+
+**Link(s) to work:**
+1. [CodePen -- Drum Machine](https://codepen.io/legendoflilac/pen/gOOeENK)
+
+
+
 ### Day 19: November 10, 2019
 
 **Today's Progress:** Got the display and sound to work! Also did some basic design work with CSS Grid.
