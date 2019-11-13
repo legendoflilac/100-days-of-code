@@ -2,7 +2,7 @@
 
 ### Day 21: November 12, 2019
 
-**Today's Progress:** Looked at Calculator Project, started contemplating how to apporach this. 
+**Today's Progress:** Looked at Calculator Project, started contemplating how to approach this. 
 
 **Thoughts:** As expected this project feels more overwhelming than the others. I need to take it piece by piece and not concern myself with making it completely functional right away.
 
