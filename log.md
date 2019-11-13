@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22: November 13, 2019
+
+**Today's Progress:** Rendered some buttons and started working on event handler functions. I learned that using `eval()` is not widely supported by the JS community, but that it could be used in this project by sanitizing the input. It becomes more dangerous to use when it's using user input, but I'll see if I can work around using it anyway. I also did some cursory research into algorithms used by calculators.
+
+**Thoughts:** Still overwhelmed. I find myself wanting to dig into more research instead of actually working on the code itself. Research has its value, but it shouldn't overshadow the whole hour I get per day to code. 
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 21: November 12, 2019
 
 **Today's Progress:** Looked at Calculator Project, started contemplating how to approach this. 
