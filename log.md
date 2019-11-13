@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: November 12, 2019
+
+**Today's Progress:** Looked at Calculator Project, started contemplating how to apporach this. 
+
+**Thoughts:** As expected this project feels more overwhelming than the others. I need to take it piece by piece and not concern myself with making it completely functional right away.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 20: November 11, 2019
 
 **Today's Progress:** After some lengthy debugging, I managed to finish it and pass all the tests! I had to use `.keyCode` instead of `.key` for one of the tests, which I only found out after some intense digging through the fCC forums. Even though `.keyCode` should be deprecated according to MDN, sometimes you have to work within what the tests detect. For the other test, I had to re-read and understand User Story #3 and ask myself if I was really fulfilling this criterion in order to find out why User Story #4 wasn't passing. Once I fixed those `id`s, I got 8/8 tests passed!
@@ -8,7 +17,6 @@
 
 **Link(s) to work:**
 1. [CodePen -- Drum Machine](https://codepen.io/legendoflilac/pen/gOOeENK)
-
 
 
 ### Day 19: November 10, 2019
