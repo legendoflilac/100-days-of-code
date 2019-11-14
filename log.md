@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 23: November 14, 2019
+
+**Today's Progress:** Got some numbers to display. I continued looking into the shunting-yard algorithm and reverse Polish notation. Not entirely sure I understand how they work, but they seem key to understanding how to do this project without `eval()`. 
+
+**Thoughts:** I remembered how to update the display from the fCC challenges, so I was happy I could implement that part easily. I otherwise feel like I'm moving at a glacial pace with this project compared to the others I've done. 
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
+2. [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+
+3. [Shunting-Yard Algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
+
 ### Day 22: November 13, 2019
 
 **Today's Progress:** Rendered some buttons and started working on event handler functions. I learned that using `eval()` is not widely supported by the JS community, but that it could be used in this project by sanitizing the input. It becomes more dangerous to use when it's using user input, but I'll see if I can work around using it anyway. I also did some cursory research into algorithms used by calculators.
