@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 24: November 15, 2019
+
+**Today's Progress:** Watched a video on the shunting-yard algorithm and started writing a crude version of it. I also got operators to display along with my numbers. 
+
+**Thoughts:** I'm excited about putting this algorithm to use now! It seems challenging from the outside (and I still might have some challenges putting it all together in the end), but it's actually fun to learn about.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 23: November 14, 2019
 
 **Today's Progress:** Got some numbers to display. I continued looking into the shunting-yard algorithm and reverse Polish notation. Not entirely sure I understand how they work, but they seem key to understanding how to do this project without `eval()`. 
