@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 25: November 16, 2019
+
+**Today's Progress:** Added some code for handling operators, looked into the algorithm some more.
+
+**Thoughts:** Whether I put in an official hour or not is hazy since I had a day jam-packed with things to do, but I did make some improvements to the code so I count that as a success!
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 24: November 15, 2019
 
 **Today's Progress:** Watched a video on the shunting-yard algorithm and started writing a crude version of it. I also got operators to display along with my numbers. 
