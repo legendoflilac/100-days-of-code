@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 26: November 17, 2019
+
+**Today's Progress:** Worked more on conversion to RPN, attempted to figure out how to calculate from it. I may need to rework my solution in the future because I'm repeating myself a fair amount when I'm coding. 
+
+**Thoughts:** This is taking longer than I would like, but I'm actually enjoying the process of figuring this problem out compared to the other projects. I never knew a calculator could be so complex!
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 25: November 16, 2019
 
 **Today's Progress:** Added some code for handling operators, looked into the algorithm some more.
