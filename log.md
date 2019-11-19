@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: November 18, 2019
+
+**Today's Progress:** I'm mainly working on bug-squashing for the handleEvaluation function. One bug I had was that a specific condition in the if statement caused the whole app to not render, which was concerning. While I don't understand why it broke the way it did, isolating and fixing one of my regexes helped. Of course now I'm actually trying to get the program to calculate something, and my regexes are failing me again. 
+
+**Thoughts:** Sometimes regexes are great, sometimes they're program-killers. 
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 26: November 17, 2019
 
 **Today's Progress:** Worked more on conversion to RPN, attempted to figure out how to calculate from it. I may need to rework my solution in the future because I'm repeating myself a fair amount when I'm coding. 
