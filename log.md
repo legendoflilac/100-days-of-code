@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 29: November 20, 2019
+
+**Today's Progress:** Working on the bugs in the RPN evaluator.
+
+**Thoughts:** I'm getting discouraged with this project and might just make a version that uses `eval()` and come back to the RPN version later. Part of the reason is that I know the next project will take just as long, if not longer. But then again, I shouldn't worry so much about how long something takes as much as what I'm learning from it. 
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 28: November 19, 2019
 
 **Today's Progress:** Debugging the evaluation parts of the app. Still plenty more to do yet!
