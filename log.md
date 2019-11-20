@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 28: November 19, 2019
+
+**Today's Progress:** Debugging the evaluation parts of the app. Still plenty more to do yet!
+
+**Thoughts:** Thank goodness for [JavaScript Tutor](http://www.pythontutor.com/javascript.html#mode=edit) for helping out with some of the reference errors I was having.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 27: November 18, 2019
 
 **Today's Progress:** I'm mainly working on bug-squashing for the handleEvaluation function. One bug I had was that a specific condition in the if statement caused the whole app to not render, which was concerning. While I don't understand why it broke the way it did, isolating and fixing one of my regexes helped. Of course now I'm actually trying to get the program to calculate something, and my regexes are failing me again. 
