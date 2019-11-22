@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 30: November 21, 2019
+
+**Today's Progress:** Working on more bugs in the RPN creator and evaluator. I'm fairly certain I solved an issue where a certain operator would add itself twice to the result, which was causing an amount of problems. I was very happy when my test input `5*5+1` evaluated to `26`. 
+
+**Thoughts:** Well, I haven't given up on my manual method of calculation yet. I'm trying to stick it out and do it the hard way and then see how easy or hard the other way is to implement. Additionally I've been looking at some neat options for doing free courses online which deal with everything from discrete math to algorithms to data structures. My main focus is still on finishing these front-end projects and then diving deep into D3 and data visualization next, but these courses would be great to fold in at some point.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+
 ### Day 29: November 20, 2019
 
 **Today's Progress:** Working on the bugs in the RPN evaluator.
