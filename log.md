@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 31: November 22, 2019
+
+**Today's Progress:** Did some more work on the manual evaluation. More issues came up, so I switched to the other fork with the `eval()` method for the time being until I can fix the algorithms to do the manual evaluation.
+
+**Thoughts:** I understand why `eval()` can be dangerous, especially when it comes to parsing user input, but it's unfortunately convenient for this project and simplified things which have plagued me for days. Now I've got to find ways to handle misinputs, especially concerning the test cases of multiple zeroes before a number and too many decimals. 
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+2. [CodePen -- Calculator w/eval() (WIP)](https://codepen.io/legendoflilac/pen/abbMvjm)
+
 ### Day 30: November 21, 2019
 
 **Today's Progress:** Working on more bugs in the RPN creator and evaluator. I'm fairly certain I solved an issue where a certain operator would add itself twice to the result, which was causing an amount of problems. I was very happy when my test input `5*5+1` evaluated to `26`. 
