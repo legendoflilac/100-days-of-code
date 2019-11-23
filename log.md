@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 32: November 23, 2019
+
+**Today's Progress:** Yesterday I *think* I figured out the shunting-yard algorithm to the point I need it to be in order to give a correct RPN notation. Today I continued work on the `eval()` version, specifically addressing multiple zeroes and decimals. I also am working on figuring out what to declare a "current" input by the user--having this helps with evaluating the multiple zeroes and decimals and it might be what I need to do in order to progress, even though it's an amount of refactoring. 
+
+**Thoughts:** I've worked on this for over a week now, but I'm not going to let it get me down! I'm starting to think about how to solve some of these problems during work, which is neat.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+2. [CodePen -- Calculator w/eval() (WIP)](https://codepen.io/legendoflilac/pen/abbMvjm)
+
+
 ### Day 31: November 22, 2019
 
 **Today's Progress:** Did some more work on the manual evaluation. More issues came up, so I switched to the other fork with the `eval()` method for the time being until I can fix the algorithms to do the manual evaluation.
