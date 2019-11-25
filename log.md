@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 33: November 24, 2019
+
+**Today's Progress:** I'm passing 14/16 tests now. I'm having issues with handling the mistaken double operator (someone pressing +/ should ignore the plus and continue operating with the division), evaluating a decimal with precision (something returns oddly on the test that is run), and the negative number ordeal (the test 5*-5 will return 25).  
+
+**Thoughts:** I'm happy that I'm now passing most of the tests! The last two might be a struggle, but persistence is key.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+2. [CodePen -- Calculator w/eval() (WIP)](https://codepen.io/legendoflilac/pen/abbMvjm)
+
 ### Day 32: November 23, 2019
 
 **Today's Progress:** Yesterday I *think* I figured out the shunting-yard algorithm to the point I need it to be in order to give a correct RPN notation. Today I continued work on the `eval()` version, specifically addressing multiple zeroes and decimals. I also am working on figuring out what to declare a "current" input by the user--having this helps with evaluating the multiple zeroes and decimals and it might be what I need to do in order to progress, even though it's an amount of refactoring. 
