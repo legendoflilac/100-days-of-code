@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 34: November 25, 2019
+
+**Today's Progress:** I fixed an evaluation issue and started working on a way to handle multiple operator inputs.
+
+**Thoughts:** It's been rough but I'm trying to make it work.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+2. [CodePen -- Calculator w/eval() (WIP)](https://codepen.io/legendoflilac/pen/abbMvjm)
+
 ### Day 33: November 24, 2019
 
 **Today's Progress:** I'm passing 14/16 tests now. I'm having issues with handling the mistaken double operator (someone pressing +/ should ignore the plus and continue operating with the division), evaluating a decimal with precision (something returns oddly on the test that is run), and the negative number ordeal (the test 5*-5 will return 25).  
