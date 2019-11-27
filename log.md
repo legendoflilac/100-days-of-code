@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 35: November 26, 2019
+
+**Today's Progress:** I attempted working on the multiple operator inputs test again, but I'm still not able to figure out a good way to do it.
+
+**Thoughts:** I am frustrated with working on this issue. No good way to talk around my thoughts on this, make it seem like I'm not frustrated. My solutions so far have managed to, under some cases, mutate `numArray` wrong, which leads to an incorrect result. I felt like I was almost there, but today was a two steps forward, two steps back sort of day.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+2. [CodePen -- Calculator w/eval() (WIP)](https://codepen.io/legendoflilac/pen/abbMvjm)
+
 ### Day 34: November 25, 2019
 
 **Today's Progress:** I fixed an evaluation issue and started working on a way to handle multiple operator inputs.
