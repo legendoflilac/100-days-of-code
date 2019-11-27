@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 36: November 27, 2019
+
+**Today's Progress:** I tried another method for multiple operators, but it ended up causing more problems than it solved. I reverted back to the last algorithm I used for it to see if I can tweak it in a way that will allow it to work as intended.
+
+**Thoughts:** It was another day where I got my hopes up for things to work, but was let down. At least now I know that one approach for sure doesn't work.
+
+**Link(s) to work:**
+1. [CodePen -- Calculator (WIP)](https://codepen.io/legendoflilac/pen/ZEEMrde)
+2. [CodePen -- Calculator w/eval() (WIP)](https://codepen.io/legendoflilac/pen/abbMvjm)
+
 ### Day 35: November 26, 2019
 
 **Today's Progress:** I attempted working on the multiple operator inputs test again, but I'm still not able to figure out a good way to do it.
