@@ -9,15 +9,6 @@
 **Link(s) to work:**
 1. [CodePen -- Calculator w/eval()](https://codepen.io/legendoflilac/pen/abbMvjm)
 
-### Day 37: November 29, 2019
-
-**Today's Progress:** I finished the `eval()` calculator! There's still some bugs with the program, but I passed the main tests! For example, the decimal won't display until after you input something else, and I don't have a limit to the amount of digits to enter, so the display could get very large. It needs some CSS tweaks and some optimization as well, and I would like to get the RPN version to work eventually too.
-
-**Thoughts:** It was a very happy moment to see that 16/16 tests passed! Now on to the Pomodoro timer!
-
-**Link(s) to work:**
-1. [CodePen -- Calculator w/eval()](https://codepen.io/legendoflilac/pen/abbMvjm)
-
 
 ### Day 36: November 27, 2019
 
