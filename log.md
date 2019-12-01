@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 38: November 30, 2019
+
+**Today's Progress:** I have no idea how to work with `setInterval()` and have even less clue about how to structure this project. I started learning about how to use `setInterval()` and am playing with it in the CodePen app.
+
+**Thoughts:** It seems this is going to need even more thought and planning on how to use components/functions compared to the calculator app. At least I'm now used to being overwhelmed by all the unknowns. 
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 37: November 29, 2019
 
 **Today's Progress:** I finished the `eval()` calculator! There's still some bugs with the program, but I passed the main tests! For example, the decimal won't display until after you input something else, and I don't have a limit to the amount of digits to enter, so the display could get very large. It needs some CSS tweaks and some optimization as well, and I would like to get the RPN version to work eventually too.
