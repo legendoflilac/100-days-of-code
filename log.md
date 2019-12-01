@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 39: December 1, 2019
+
+**Today's Progress:** I worked on disabling the start button after clicking the Start Countdown button so that multiple `setInterval()`s wouldn't occur. I also added a reset button that sets the session back to my original state. Eventually I will need to get the countdown to trigger the buzzer and switch to the resting countdown. 
+
+Additionally, [Advent of Code](https://adventofcode.com/) starts today! I just learned about it yesterday and decided to try it, though I doubt I'll be able to do it every day. I solved the first two challenges with Python. It's been a while since I've used Python, and one big takeaway was that `for line in file_object:` will set the iterator to the first line, but `file_object.readline()` will move the iterator *again*, which caused the first line in my input file to be skipped.
+
+**Thoughts:** The timer is going slowly but without major issues in understanding (so far), but pseudo-physics problems are way more fun!
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 38: November 30, 2019
 
 **Today's Progress:** I have no idea how to work with `setInterval()` and have even less clue about how to structure this project. I started learning about how to use `setInterval()` and am playing with it in the CodePen app.
