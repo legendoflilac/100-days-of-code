@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 41: December 3, 2019
+
+**Today's Progress:** I worked on the session-flipper and can get the timer to switch between session and break, but it seems that when break flips back to session, it starts counting down and not resetting to whatever the first session number was, which is a problem. I may have to store the original number in session/break and use that to reset that part each time.
+
+**Thoughts:** I don't find myself as excited about this project, but when I start working on it, I can't seem to find a good place to stop and end up going over my allotted hour because I tell myself I want to fix one more issue, add one more thing... it's the old adage that motivation comes from action, not out of desire to do something.
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 40: December 2, 2019
 
 **Today's Progress:** Today didn't consist of much. I'm puzzling through how to make the timer switch between the session period and the break period.
