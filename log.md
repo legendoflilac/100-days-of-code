@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 40: December 2, 2019
+
+**Today's Progress:** Today didn't consist of much. I'm puzzling through how to make the timer switch between the session period and the break period.
+
+**Thoughts:** I feel like I just keep adding a bunch of parts to state. Uncertain if that's okay to do in a larger sense, but what do I know? This is the first app that's really required its use.
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 39: December 1, 2019
 
 **Today's Progress:** I worked on disabling the start button after clicking the Start Countdown button so that multiple `setInterval()`s wouldn't occur. I also added a reset button that sets the session back to my original state. Eventually I will need to get the countdown to trigger the buzzer and switch to the resting countdown. 
