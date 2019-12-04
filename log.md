@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 42: December 4, 2019
+
+**Today's Progress:** I'm trying to figure out how to increment and decrement the `sessionLength` and `breakLength` without having to copy/paste and change values. I also need to find a way to take this state and essentially copy it to the running timer so that `sessionLength` and `breakLength` aren't directly modified. When they are modified, the next time it becomes a work session or a break session, the timer won't reset back to the original values and instead continue to count downward from zero, which is not how this timer is supposed to function.
+
+**Thoughts:** There's a part of me that wants to start cleaning up my code already, but I know I need to just get the program working first before I do any drastic refactoring.
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 41: December 3, 2019
 
 **Today's Progress:** I worked on the session-flipper and can get the timer to switch between session and break, but it seems that when break flips back to session, it starts counting down and not resetting to whatever the first session number was, which is a problem. I may have to store the original number in session/break and use that to reset that part each time.
