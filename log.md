@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 43: December 5, 2019
+
+**Today's Progress:** I got the session and break lengths to increment and decrement without much trouble, and I have a place in state for a `runningTimer` which tracks the progress of the timer that is running. Unfortunately, how it's currently set up means that the play/pause button doesn't work again because `runningTimer` will reset when `startCountdown()` is called again. 
+
+**Thoughts:** Sometimes it's amazing how much I can get done at the beginning of a session and then struggle really hard to get things to work for the rest of the hour. Progress is not linear!
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 42: December 4, 2019
 
 **Today's Progress:** I'm trying to figure out how to increment and decrement the `sessionLength` and `breakLength` without having to copy/paste and change values. I also need to find a way to take this state and essentially copy it to the running timer so that `sessionLength` and `breakLength` aren't directly modified. When they are modified, the next time it becomes a work session or a break session, the timer won't reset back to the original values and instead continue to count downward from zero, which is not how this timer is supposed to function.
