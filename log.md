@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 44: December 6, 2019
+
+**Today's Progress:** Pausing works again with the new approach. I worked on various aspects of the program today and started testing. My timer doesn't reach 00:00 however, and it throws me an interesting error in the test suite. The error message doesn't give me much to go off of, but I know lots of people have struggled with their timers not hitting/displaying 00:00. 
+
+**Thoughts:** Not many thoughts, today, just an amount of work.
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 43: December 5, 2019
 
 **Today's Progress:** I got the session and break lengths to increment and decrement without much trouble, and I have a place in state for a `runningTimer` which tracks the progress of the timer that is running. Unfortunately, how it's currently set up means that the play/pause button doesn't work again because `runningTimer` will reset when `startCountdown()` is called again. 
