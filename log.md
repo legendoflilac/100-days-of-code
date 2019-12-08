@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 45: December 7, 2019
+
+**Today's Progress:** Still working on the issue of not reaching 00:00.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer (WIP)](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 44: December 6, 2019
 
 **Today's Progress:** Pausing works again with the new approach. I worked on various aspects of the program today and started testing. My timer doesn't reach 00:00 however, and it throws me an interesting error in the test suite. The error message doesn't give me much to go off of, but I know lots of people have struggled with their timers not hitting/displaying 00:00. 
