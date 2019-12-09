@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 46: December 8, 2019
+
+**Today's Progress:** Holy cow things actually fell into place today and I'm at 29/29 tests passed. Instead of updating immediately when `runningTimer` hit 0, I changed it so that the timer went from session to break at -1 instead, giving the interval a chance to update the display. I also mislabeled an id name, which messed up some of the tests initially. 
+
+**Thoughts:** I think this is a neat project, but I just want to throw it at a wall after all the silly errors I encountered! I'm very impressed how I handled this project and built it through learning first how to do a countdown, then how to make a countdown that has a reset button, then one that can pause... all adding up to the point where it has the full functionality of a pomodoro timer. I didn't style it much, but that can happen later. Having the main logic working is the most important part. And with that, I'm moving on to the second part of my 100 Days of Code/Winter of Code challenge--data visualization! This is another part of the freeCodeCamp curriculum, and it's one I've been looking forward to doing for a long time.
+
+**Link(s) to work:**
+1. [CodePen -- Pomodoro Timer](https://codepen.io/legendoflilac/pen/PowYRvZ)
+
 ### Day 45: December 7, 2019
 
 **Today's Progress:** Still working on the issue of not reaching 00:00.
