@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 47: December 9, 2019
+
+**Today's Progress:** Started learning about data visualization with D3. I learned about selecting HTML elements, adding attributes and styles, and played with SVG graphics. Because of how SVG works, it will invert the traditional bar chart, but there's a method to make the bar chart appear as we normally see it day-to-day.
+
+**Thoughts:** I like what I'm learning so far, and it's super cool to be using a library used by one of my favorite data-driven journalism websites, [The Pudding](https://pudding.cool/).
+
+**Link(s) to work:**
+1. [freeCodeCamp -- Data Visualization -- Add Document Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-document-elements-with-d3) through [freeCodeCamp -- Data Visualization -- Invert SVG Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/invert-svg-elements)
+
 ### Day 46: December 8, 2019
 
 **Today's Progress:** Holy cow things actually fell into place today and I'm at 29/29 tests passed. Instead of updating immediately when `runningTimer` hit 0, I changed it so that the timer went from session to break at -1 instead, giving the interval a chance to update the display. I also mislabeled an id name, which messed up some of the tests initially. 
