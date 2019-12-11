@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 48: December 10, 2019
+
+**Today's Progress:** Finished the D3 section. 
+
+**Thoughts:** I had a little trouble following the later parts of this section, but it was mainly due to my lack of focus due to real life events.
+
+**Link(s) to work:**
+1. [freeCodeCamp -- Data Visualization -- Change the Color of an SVG Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element/) through [freeCodeCamp -- Data Visualization -- Add Axes to a Visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization)
+
 ### Day 47: December 9, 2019
 
 **Today's Progress:** Started learning about data visualization with D3. I learned about selecting HTML elements, adding attributes and styles, and played with SVG graphics. Because of how SVG works, it will invert the traditional bar chart, but there's a method to make the bar chart appear as we normally see it day-to-day.
