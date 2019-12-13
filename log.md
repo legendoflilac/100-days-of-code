@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 50: December 13, 2019
+
+**Today's Progress:** I started playing around with the bar chart challenge. 
+
+**Thoughts:** I'm consulting other tutorials and sources for help with some of this. While I can appreciate the basic intro that fCC gives for this, the concepts covered don't translate the best over to an actual project. Regardless, I still think this will still be pretty cool when I'm done.
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+
+### Day 49: December 12, 2019
+
+**Today's Progress:** Finished the short API and AJAX section.
+
+**Thoughts:** I wasn't the most focused on this section. Most fCC stuff guides you a bit more piecemeal through concepts rather than throwing a code block at you and saying "hey, copy and paste this into the editor to complete the challenge." I also find it curious that the D3 section failed to mention `d3.json()`.
+
+**Link(s) to work:**
+1. [freeCodeCamp -- Data Visualization -- All of the JSON APIs and AJAX Challenges](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/)
+
 ### Day 48: December 10, 2019
 
 **Today's Progress:** Finished the D3 section. 
