@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 51: December 14, 2019
+
+**Today's Progress:** The axes are giving me problems. I figured out how to get some of the promise stuff to work with D3, but I still have to map those values to the domain somehow and get the axes right. 
+
+**Thoughts:** Well, the major obstacle for today has been figured out somewhat, but now I'm left messing with axes even before I start building the individual bars. I'm definitely not used to working with D3 yet. I know it can do some interesting stuff, but it's by no means beginner-friendly.
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart (WIP)](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+
 ### Day 50: December 13, 2019
 
 **Today's Progress:** I started playing around with the bar chart challenge. 
