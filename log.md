@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 53: December 16, 2019
+
+**Today's Progress:** Working backwards today. After experiencing frustration with the current project, I'm going through tutorials and trying to gain a greater understanding of the fundamentals.
+
+**Thoughts:** I think there's just too many pieces I'm trying to get to work at once, and it's not letting me make real progress. As a result, I'm consulting other resources and playing with examples in a temporary pen. It's a little frustrating, but I know this is just a part of learning.
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart (WIP)](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+2. [Tutorials Teacher](https://www.tutorialsteacher.com/d3js/create-bar-chart-using-d3js)
+
 ### Day 52: December 15, 2019
 
 **Today's Progress:** The axes are (mostly) fixed now. I'm working how to get the bars to display right.
