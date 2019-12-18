@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 54: December 17, 2019
+
+**Today's Progress:** I played more with the bar chart itself to understand how `transform` can modify the visibility of the axes, and I started digging into why the data refuse to display in a reasonable, bar-chart-like manner.
+
+**Thoughts:** I could tell I was procrastinating this today since I didn't come home and engage right away. Since I did that, I was tired and couldn't focus well on the task, but adopting a less focused mindset helped me be calm and playful about the project a little more. 
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart (WIP)](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+2. [Tutorials Teacher](https://www.tutorialsteacher.com/d3js/create-bar-chart-using-d3js)
+
 ### Day 53: December 16, 2019
 
 **Today's Progress:** Working backwards today. After experiencing frustration with the current project, I'm going through tutorials and trying to gain a greater understanding of the fundamentals.
