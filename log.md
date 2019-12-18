@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 55: December 18, 2019
+
+**Today's Progress:** I tried working more with the data today. It gives the vague appearance of displaying the GDP over time, but the bars themselves don't reach the x axis.
+
+**Thoughts:** I wish I had someone who could help me out with this. I feel like it should be a pretty easy solution, I'm just not seeing it with my limited perspective. All the bars seem to have the same width and height, they're just bunched close together and not forming long, skinny bars like I've seen in other examples of this project. 
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart (WIP)](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+
 ### Day 54: December 17, 2019
 
 **Today's Progress:** I played more with the bar chart itself to understand how `transform` can modify the visibility of the axes, and I started digging into why the data refuse to display in a reasonable, bar-chart-like manner.
