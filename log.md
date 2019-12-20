@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 56: December 10, 2019
+
+**Today's Progress:** Well, one of my problems with bar width was fixed when I noticed that the CSS class assigned to the bars was affecting it! Still not out of the woods yet since I need to figure out the height issue.
+
+**Thoughts:** Definitely wishing I had an outsider's perspective. It's hard going it alone and realizing past-you was a little dumb.
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart (WIP)](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+
 ### Day 55: December 18, 2019
 
 **Today's Progress:** I tried working more with the data today. It gives the vague appearance of displaying the GDP over time, but the bars themselves don't reach the x axis.
