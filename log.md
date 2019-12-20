@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 56: December 10, 2019
+### Day 57: December 20, 2019
+
+**Today's Progress:** I managed to get the full graph to show and adjusted it so it displays the data like in the example project. I worked on creating the tooltip, which was trickier than I thought. I'm going to do some style adjustments next.
+
+**Thoughts:** I'm definitely feeling the impostor syndrome today. It's somewhat justified since I can't seem to really make progress on this project without turning somewhere for help. Not that help is a bad thing, I just have an expectation of myself to be better and I'm failing to meet that. 
+
+**Link(s) to work:**
+1. [CodePen -- Bar Chart (WIP)](https://codepen.io/legendoflilac/pen/QWwKjoa?editors=0011)
+2. [How to create tooltips in D3.js](https://www.competa.com/blog/how-create-tooltips-in-d3-js/)
+
+
+### Day 56: December 19, 2019
 
 **Today's Progress:** Well, one of my problems with bar width was fixed when I noticed that the CSS class assigned to the bars was affecting it! Still not out of the woods yet since I need to figure out the height issue.
 
