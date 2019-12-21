@@ -2,7 +2,7 @@
 
 ### Day 57: December 20, 2019
 
-**Today's Progress:** I managed to get the full graph to show and adjusted it so it displays the data like in the example project. I worked on creating the tooltip, which was trickier than I thought. I'm going to do some style adjustments next.
+**Today's Progress:** I managed to get the full graph to show and adjusted it so it displays the data like in the example project. I worked on creating the tooltip, which was trickier than I thought. I'm going to do some style adjustments next. *Update*: Submitted the project with all tests passing.
 
 **Thoughts:** I'm definitely feeling the impostor syndrome today. It's somewhat justified since I can't seem to really make progress on this project without turning somewhere for help. Not that help is a bad thing, I just have an expectation of myself to be better and I'm failing to meet that. 
 
