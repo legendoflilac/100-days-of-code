@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 58: December 22, 2019
+
+**Today's Progress:** I started the scatter plot project.
+
+**Thoughts:** I now remember how much I didn't like Date objects when working with the last project, since Dates are back again! I did a better job this time around just setting up the underlying foundation for the visualization since I had experience struggling with the bar chart.
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 57: December 20, 2019
 
 **Today's Progress:** I managed to get the full graph to show and adjusted it so it displays the data like in the example project. I worked on creating the tooltip, which was trickier than I thought. I'm going to do some style adjustments next. *Update*: Submitted the project with all tests passing.
