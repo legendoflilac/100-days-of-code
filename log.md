@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 59: December 24, 2019
+
+**Today's Progress:** Continued scatter plot, attempting to format the y axis properly. I need to find a way to explicitly define the formatting of the times so that they display on the graph properly in MM:SS format.
+
+**Thoughts:** More playing with date objects, woo!
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
+
 ### Day 58: December 22, 2019
 
 **Today's Progress:** I started the scatter plot project.
