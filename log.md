@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 60: December 26, 2019
+
+**Today's Progress:** I finally fixed what was wrong with the y axis! I also learned that D3 has a method to parse dates without calling a `Date()` object and modifiying it. It took a lot of research to figure out why `.timeFormat` kept throwing an error at me, but now it's ready to have data plotted!
+
+**Thoughts:** Sadly haven't been able to do this every day this week with the holidays and busy work schedules, but the goal is to not miss two days in a row and so far that's been manageable. 
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [StackOverflow -- tickFormat usage](https://stackoverflow.com/questions/18474620/d3-js-tickformat-adding-a-sign-without-multiplying-by-100)
+3. [StackOverflow -- tickFormat not working](https://stackoverflow.com/questions/42485211/d3-tickformat-not-working)
+4. [JSFiddle -- Doping Bicyclists Data](https://jsfiddle.net/swxbx0Lt/)
+
 ### Day 59: December 24, 2019
 
 **Today's Progress:** Continued scatter plot, attempting to format the y axis properly. I need to find a way to explicitly define the formatting of the times so that they display on the graph properly in MM:SS format.
