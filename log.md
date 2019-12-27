@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 61: December 27, 2019
+
+**Today's Progress:** I fixed my previous code to make better use of the `.timeFormat()` and `.timeParse()` options, which has helped simplify how the years and times are evaluated. And now I have dots on the plot!
+
+**Thoughts:** I'm happy to finally have dots! It was a bit of a struggle, but sometimes, you just need to take a break or actually think about what your code is doing instead of what you're intending it to do.
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 60: December 26, 2019
 
 **Today's Progress:** I finally fixed what was wrong with the y axis! I also learned that D3 has a method to parse dates without calling a `Date()` object and modifiying it. It took a lot of research to figure out why `.timeFormat` kept throwing an error at me, but now it's ready to have data plotted!
