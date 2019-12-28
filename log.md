@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 62: December 28, 2019
+
+**Today's Progress:** I created a way to make the dots have different fill colors depending on whether there was doping data available. I also added the tooltip for more information about the plotted point.
+
+**Thoughts:** It's coming along smoothly. I didn't remember how to make the tooltip work, so I had to look back on my bar chart project to see what I used for that. I was stumped for a bit on how to make the color-changing aspect work, but the solution wasn't has hard as I thought.
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 61: December 27, 2019
 
 **Today's Progress:** I fixed my previous code to make better use of the `.timeFormat()` and `.timeParse()` options, which has helped simplify how the years and times are evaluated. And now I have dots on the plot!
