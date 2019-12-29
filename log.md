@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 63: December 29, 2019
+
+**Today's Progress:** I added the id's needed for the testing suite and I started working on the legend.
+
+**Thoughts:** Not much to think about, just trying to set everything up for the tests.
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 62: December 28, 2019
 
 **Today's Progress:** I created a way to make the dots have different fill colors depending on whether there was doping data available. I also added the tooltip for more information about the plotted point.
