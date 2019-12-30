@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 64: December 30, 2019
+
+**Today's Progress:** More playing around to get the legend to work.
+
+**Thoughts:** Aaaaaaaaaah. Everything is much harder to work with while ill.
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [CodePen -- Heat Map by GiaFil -- Referenced for use of legend](https://codepen.io/GiaFil/pen/Edbeyq)
+
 ### Day 63: December 29, 2019
 
 **Today's Progress:** I added the id's needed for the testing suite and I started working on the legend.
