@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 65: December 31, 2019
+
+**Today's Progress:** Still working on getting the legend to be right. Ran through the tests, but it seems that #15 isn't working the way it should for some reason. So I'll have to troubleshoot that and then work on the design of the project.
+
+**Thoughts:** Last day of the year! This legend has been giving me trouble and now the tests aren't all right, but I've had a lot more fun figuring out how D3 works with this project. I'm thinking I would like to set up a local environment where I can develop the visualizations without solely working on it with CodePen.
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 64: December 30, 2019
 
 **Today's Progress:** More playing around to get the legend to work.
