@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 66: January 1, 2020
+
+**Today's Progress:** Got the tests to pass! My issue was that in my mouseover function for the tooltip I passed the callbacks of `(d,i)` already, and when I was setting the attribute of `data-year`, I was passing them again, which was unnecessary. I added a little flex box to make it like my first project and started looking into how to make a responsive D3 project. I don't think this project is going to work well with it without digging myself into a deep hole, but I'm going to keep it in mind for my next few projects. Data visualizations need to work with small screens too!
+
+**Thoughts:** Having success with the scatter plot was a good way to start the year!
+
+**Link(s) to work:**
+1. [CodePen -- Scatter Plot (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [A simple way to make D3.js charts responsive](https://medium.com/@louisemoxy/a-simple-way-to-make-d3-js-charts-svgs-responsive-7afb04bc2e4b)
+3. [Responsive D3.js](https://brendansudol.com/writing/responsive-d3)
+4. [viewBox attribute with svg height and width attributes set](https://stackoverflow.com/questions/44322617/viewbox-attribute-with-svg-height-and-width-attributes-set)
+
 ### Day 65: December 31, 2019
 
 **Today's Progress:** Still working on getting the legend to be right. Ran through the tests, but it seems that #15 isn't working the way it should for some reason. So I'll have to troubleshoot that and then work on the design of the project.
