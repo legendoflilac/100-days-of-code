@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+
+### Day 68: January 3, 2020
+
+**Today's Progress:** Thus begins another session with fighting with the x-axis! At first I wasn't getting anything to display right because I accidentally forgot to put `[]` around my range, and now I've got the problem of the data not being split into individual bands, instead forming one large tick with all the years I need... 
+
+**Thoughts:** Maybe someday I'll have some luck with getting axes set up right.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
+### Day 67: January 2, 2020
+
+**Today's Progress:** Started the heat map. I started thinking about ways to make it responsive, but I think I may need to just make the visualization first since I don't know much about constructing a heat map yet. There might be some different scales involved since there's a range of colors used in the example, and I don't know much about that yet.
+
+**Thoughts:** Excited to be starting a new project!
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [Example of Heat Map](https://www.d3-graph-gallery.com/graph/heatmap_tooltip.html)
+
+
 ### Day 66: January 1, 2020
 
 **Today's Progress:** Got the tests to pass! My issue was that in my mouseover function for the tooltip I passed the callbacks of `(d,i)` already, and when I was setting the attribute of `data-year`, I was passing them again, which was unnecessary. I added a little flex box to make it like my first project and started looking into how to make a responsive D3 project. I don't think this project is going to work well with it without digging myself into a deep hole, but I'm going to keep it in mind for my next few projects. Data visualizations need to work with small screens too!
