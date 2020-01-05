@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 69: January 4, 2020
+
+**Today's Progress:** Well, I went from the problem of only having one tick to having way too many ticks in the axis. This was solved thanks to `tickValues()` and StackOverflow. But really, the solution was to set `tickValues()` so that it filters the xScale's domain to only return one in every 10 (or whatever interval you like). I also got the y-axis set up, which was much easier since I had the x-axis to go off of. I also wrote one for the color scale, but I'm not sure if it's the right approach. The next challenge will be adding the cells and making sure the right cells get the right colors.
+
+**Thoughts:** It's a relief to know that D3 can be flexible sometimes, even if sometimes it's a little silly in other ways. I'm really liking using `margin` as an object and being able to adjust margin values whenever I need to as opposed to having magic numbers that I have to search for and pray they change the thing I want it to. I did it on the last project too, but I didn't really appreciate it until this one.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [StackOverflow -- Reduce number of ticks with filter()](https://stackoverflow.com/questions/40199108/d3-v4-scaleband-ticks)
 
 ### Day 68: January 3, 2020
 
