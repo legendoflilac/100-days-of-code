@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 70: January 5, 2020
+
+**Today's Progress:** Looked for help on using colors in D3. I tried creating a color scale and appending rectangles, but I didn't get anything to display yet. 
+
+**Thoughts:** I'm tired from the day and not finding a good solution for my problems was discouraging. Hopefully my struggle today leads to a path to knowledge tomorrow. Or the next day.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [CodePen -- An Example Heat Map from Christian Wimber](https://codepen.io/TungstenNo74/pen/WrMzJr)
+
+
 ### Day 69: January 4, 2020
 
 **Today's Progress:** Well, I went from the problem of only having one tick to having way too many ticks in the axis. This was solved thanks to `tickValues()` and StackOverflow. But really, the solution was to set `tickValues()` so that it filters the xScale's domain to only return one in every 10 (or whatever interval you like). I also got the y-axis set up, which was much easier since I had the x-axis to go off of. I also wrote one for the color scale, but I'm not sure if it's the right approach. The next challenge will be adding the cells and making sure the right cells get the right colors.
