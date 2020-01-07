@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 71: January 6, 2020
+
+**Today's Progress:** Kept working on the scales. Not able to get data to render at all.
+
+**Thoughts:** Unsure how to proceed. Still feeling too tired to effectively do work on this.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 70: January 5, 2020
 
 **Today's Progress:** Looked for help on using colors in D3. I tried creating a color scale and appending rectangles, but I didn't get anything to display yet. 
