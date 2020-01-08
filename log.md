@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 73: January 8, 2020
+
+**Today's Progress:** Part of my problem was that I forgot that I needed to scale some of my attributes, like the `x` and `y` ones on the rectangles, to fit the svg. :woman_facepalming: But now the data is displayed, and I played some with the padding of the bands and also got a color scale going so the fill color changes with the value of variance.
+
+**Thoughts:** Big steps have been made this morning after two or so days of being blocked from meaningful progress. I knew I had to be missing fundamental for the bands to not display right, but when you're too close to your project and so intent on making progress instead of being present, it's hard to see what you're overlooking.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 72: January 7, 2020
 
 **Today's Progress:** So I think some of the data was rendering maybe, but it was too small to see? Regardless, we have something showing up now. It's just a matter of getting it to populate the screen appropriately, then getting the fill colors right, and a whole slew of other things...
