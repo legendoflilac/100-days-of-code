@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 72: January 7, 2020
+
+**Today's Progress:** So I think some of the data was rendering maybe, but it was too small to see? Regardless, we have something showing up now. It's just a matter of getting it to populate the screen appropriately, then getting the fill colors right, and a whole slew of other things...
+
+**Thoughts:** Was definitely frustrated until I started playing some with the `.data` attribute and noticing a small blue cluster near the top of the chart, near where January was. This project has really tested my patience this far because I think I should be knowing how to do these things and little stuff like getting the data on the screen is tripping me up.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+
 ### Day 71: January 6, 2020
 
 **Today's Progress:** Kept working on the scales. Not able to get data to render at all.
