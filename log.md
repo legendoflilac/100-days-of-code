@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 74: January 9, 2020
+
+**Today's Progress:** Today was tooltip adventures. I got the basics done, but the `div` kept displaying at the bottom and I was having a hard time figuring out why that was happening. Looking at my past pen, I saw the difference when inspecting the tooltip--I was accidentally appending a `<class>` instead of adding the attribute `class`. Another facepalm moment!
+
+**Thoughts:** I'm feeling like I understand HTML-based tooltips more now after doing some research on them. 
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [StackOverflow D3 Positioning tooltip on SVG element](https://stackoverflow.com/questions/21153074/d3-positioning-tooltip-on-svg-element-not-working)
+3. [StackOverflow D3 Position tooltips using element position, not mouse position](https://stackoverflow.com/questions/16256454/d3-js-position-tooltips-using-element-position-not-mouse-position)
+
 ### Day 73: January 8, 2020
 
 **Today's Progress:** Part of my problem was that I forgot that I needed to scale some of my attributes, like the `x` and `y` ones on the rectangles, to fit the svg. :woman_facepalming: But now the data is displayed, and I played some with the padding of the bands and also got a color scale going so the fill color changes with the value of variance.
