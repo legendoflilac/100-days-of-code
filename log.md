@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 75: January 10, 2020
+
+**Today's Progress:** Now that we've largely moved on from tooltip woes, I'm onto figuring out how to create a legend that is useful for the variance data. I can display the three colors used to create the color scale just fine, it's just figuring how to populate some of the in-between colors to actually make the legend useful to a viewer.
+
+**Thoughts:** I'm 75% of the way to the finish line of this 100 Days of Code experiment! 
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map (WIP)](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [Example CodePen used for reference on Heat Map](https://codepen.io/TungstenNo74/pen/WrMzJr)
 
 ### Day 74: January 9, 2020
 
