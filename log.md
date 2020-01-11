@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 76: January 11, 2020
+
+**Today's Progress:** Finished the heat map! I did some last adjustments on the color scale to make it more colorblind-friendly, I used an example pen to help learn how to make the legend (learning in the process that `d3.range()` has `start, stop`, and a very useful (and in this case necessary) `step` parameter. I cleaned up some of the code and added some comments in areas where I might forget something useful I learned while doing this. 
+
+**Thoughts:** I kind of want a break from doing D3 things, but I'm not sure what I would do instead. I have interest in learning about promises in JS and asynchronous code in general, since I'm using it with these projects but my understanding is limited. I also read about server-side code yesterday, and while it was super neat, I was definitely overwhelmed. I'll link it here so I remember it.
+
+**Link(s) to work:**
+1. [CodePen -- Heat Map](https://codepen.io/legendoflilac/pen/mdymwoz)
+2. [Example CodePen used for reference on Heat Map](https://codepen.io/TungstenNo74/pen/WrMzJr)
+3. [Color Palette](https://venngage.com/blog/color-blind-friendly-palette/)
+4. [d3.range() function](https://www.geeksforgeeks.org/d3-js-d3-range-function/)
+5. [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+6. [Setting up a Node development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
+
 ### Day 75: January 10, 2020
 
 **Today's Progress:** Now that we've largely moved on from tooltip woes, I'm onto figuring out how to create a legend that is useful for the variance data. I can display the three colors used to create the color scale just fine, it's just figuring how to populate some of the in-between colors to actually make the legend useful to a viewer.
