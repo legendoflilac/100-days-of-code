@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 77: January 12, 2020
+
+**Today's Progress:** I started learning about choropleth maps and how to start making one in D3. The pattern I've found for most of the projects is:
+	- Assign width/height as normal
+	- Assign projection, such as `d3.geoAlbersUsa()`, like we'll be using for this project
+	- Assign path as `d3.geoPath().projection(projection)`
+	- Initialize svg canvas
+	- Load data through d3.json
+	- Draw map using paths
+
+Additionally, I learned about using templates in CodePen and dove the tiniest bit into Promises in Javascript in reference to how it can be used with creating maps in D3. 
+
+**Thoughts:** It was good to have just a knowledge-gathering session instead of a hard coding/debugging session. I may have to do this on days I don't have as much time to focus on coding, which is every Monday for me currently. I don't want to skip a day since I have a goal date in mind for me to finish all 100 days. I'll have to learn more about paths in SVG as well.
+
+**Link(s) to work:**
+1. [Making a Map in D3.js v.5](http://datawanderings.com/2018/10/28/making-a-map-in-d3-js-v-5/)
+2. [d3CompositeProjections using the new d3js v5](http://bl.ocks.org/rveciana/51cfe6249cf7de532000af68fb3b5183)
+3. [d3-geo](https://github.com/d3/d3-geo/blob/v1.11.9/README.md#geoPath)
+
 ### Day 76: January 11, 2020
 
 **Today's Progress:** Finished the heat map! I did some last adjustments on the color scale to make it more colorblind-friendly, I used an example pen to help learn how to make the legend (learning in the process that `d3.range()` has `start, stop`, and a very useful (and in this case necessary) `step` parameter. I cleaned up some of the code and added some comments in areas where I might forget something useful I learned while doing this. 
