@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 78: January 13, 2020
+
+**Today's Progress:** I did another learning day, partly dabbling in greater topics like colors in data visualizations and partly focused on the choropleth project at hand. From reading some of Mike Bostock's work, I realized that a lot of thought has to go into a visualization, namely that the geometry has to match the data. If your population data is from one year, it makes sense to find census tracts or other topology from that same year. I learned some about the difference between TopoJSON and GeoJSON, learning in the process that one of the files given for the project is a TopoJSON file. I will need to consider this as I move forward with the project.
+
+**Thoughts:** Diving deeper into these topics is actually helpful for gaining a foundational understanding that I need to start the project. I think if I had just tried to hash it out right away I would have been frustrated. 
+
+**Link(s) to work:**
+1. [Choropleth Map (WIP)](https://codepen.io/legendoflilac/pen/VwYdLOp)
+2. [Let's Make a Map](https://bost.ocks.org/mike/map/)
+3. [Command-Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)
+4. [Butterfly effect: OECD's data visualisation fail leads to media panic](http://datawanderings.com/2017/02/23/oecd-data-visualisation/#more-2234)
+5. [Colorful nonsense: what does your data visualisation actually say?](http://datawanderings.com/2017/11/26/colourful-nonsense-data-visualisation/#more-2416)
+
 ### Day 77: January 12, 2020
 
 **Today's Progress:** I started learning about choropleth maps and how to start making one in D3. The pattern I've found for most of the projects is:
