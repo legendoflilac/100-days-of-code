@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 79: January 14, 2020
+
+**Today's Progress:** Still confused on how to actually get things to render right with the type of data given for the project and I've been reading a bit to see if more explanations are given. I also found a map that adjusted to the window size, which I might try and adapt eventually. I attempted to see if I could get something to load in CodePen, only to realize that the CDN links listed in the project description don't play nicely with CodePen, leaving me to have to find the link that did work. And now there's a big black box on my screen and I don't know what to do with it, haha.
+
+**Thoughts:** While I appreciate having to dig for information to get this project to work, I think the transition to this could have been easier if users had been exposed to paths, using Topo/GeoJSON, or just making maps in general. Or, y'know, providing the right links to the data...
+
+**Link(s) to work:**
+1. [Responsive TopoJSON Sizing with d3.js](http://bl.ocks.org/jczaplew/4444770)
+2. [TopoJson](https://github.com/topojson/topojson)
+
 ### Day 78: January 13, 2020
 
 **Today's Progress:** I did another learning day, partly dabbling in greater topics like colors in data visualizations and partly focused on the choropleth project at hand. From reading some of Mike Bostock's work, I realized that a lot of thought has to go into a visualization, namely that the geometry has to match the data. If your population data is from one year, it makes sense to find census tracts or other topology from that same year. I learned some about the difference between TopoJSON and GeoJSON, learning in the process that one of the files given for the project is a TopoJSON file. I will need to consider this as I move forward with the project.
