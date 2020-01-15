@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 80: January 15, 2020
+
+**Today's Progress:** I got the map to appear! Turns out we don't need to mess with projection for this project, which was throwing things off. Next is figuring out how to get the education data into a color scale and applying it to the fill color of the counties. I also want to figure out how to give the states a stroke if possible.
+
+**Thoughts:** Sometimes the most progress happens in the morning when I'm not expecting much to happen!
+
+**Link(s) to work:**
+1. [Choropleth Map (WIP)](https://codepen.io/legendoflilac/pen/VwYdLOp)
+
 ### Day 79: January 14, 2020
 
 **Today's Progress:** Still confused on how to actually get things to render right with the type of data given for the project and I've been reading a bit to see if more explanations are given. I also found a map that adjusted to the window size, which I might try and adapt eventually. I attempted to see if I could get something to load in CodePen, only to realize that the CDN links listed in the project description don't play nicely with CodePen, leaving me to have to find the link that did work. And now there's a big black box on my screen and I don't know what to do with it, haha.
