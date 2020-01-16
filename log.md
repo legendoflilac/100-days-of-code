@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 81: January 16, 2020
+
+**Today's Progress:** I learned some about different scales, such as threshold and quantile scales, and attempted to apply them to the colors on the map. It's still a little off since everything is displaying the darkest color. I also got the state outlines to appear. 
+
+**Thoughts:** Not a bad time today.
+
+**Link(s) to work:**
+1. [Choropleth Map (WIP)](https://codepen.io/legendoflilac/pen/VwYdLOp)
+2. [Choropleth Reference for State Outlines](https://observablehq.com/@d3/choropleth)
+3. [Quantile, Quantize, and Threshold Scales](https://observablehq.com/@d3/quantile-quantize-and-threshold-scales)
+
 ### Day 80: January 15, 2020
 
 **Today's Progress:** I got the map to appear! Turns out we don't need to mess with projection for this project, which was throwing things off. Next is figuring out how to get the education data into a color scale and applying it to the fill color of the counties. I also want to figure out how to give the states a stroke if possible.
