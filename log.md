@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 83: January 18, 2020
+
+**Today's Progress:** I got the scale to work better (it was passing the wrong value to `colorScale()`) and changed the color scheme to grayscale. I referenced the example pen to find out how to get the map data and education data to interact and finally got it to work.
+
+**Thoughts:** I was really stumped on how to make the map data and education data interact. Using `filter()` to find the object needed in the education data was really helpful.
+
+**Link(s) to work:**
+1. [Choropleth Map (WIP)](https://codepen.io/legendoflilac/pen/VwYdLOp)
+2. [Choropleth Map Example](https://codepen.io/freeCodeCamp/pen/EZKqza)
+
 ### Day 82: January 17, 2020
 
 **Today's Progress:** I tried playing with the scales again, but most of the map is still very purple. I added the tooltip so I could see how much the counties and the education information don't overlap. I'll need to find a way to make the id's of both data match up and return the information I need.
