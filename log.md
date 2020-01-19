@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 84: January 19, 2020
+
+**Today's Progress:** Finished the project and passed the tests! I referenced the example project for help with the legend, which was really the last part I needed to finish with the whole thing. Then I went back and looked at some of the code I didn't understand as much. I chose a light mint color to put as the background for this project since the map is populated with gray tones. 
+
+**Thoughts:** The lack of guidance on this project was intimidating at first, but after looking at enough examples I learned how to work with what little information I was given. I don't think maps will be my choice of data visualization projects in the future, but at least I have a few fundamentals down if I ever try to approach one again. After all, a dataviz on where the most banned/challenged books come from in America could be quite interesting...
+
+**Link(s) to work:**
+1. [Choropleth Map](https://codepen.io/legendoflilac/pen/VwYdLOp)
+2. [Choropleth Map Example](https://codepen.io/freeCodeCamp/pen/EZKqza)
+
 ### Day 83: January 18, 2020
 
 **Today's Progress:** I got the scale to work better (it was passing the wrong value to `colorScale()`) and changed the color scheme to grayscale. I referenced the example pen to find out how to get the map data and education data to interact and finally got it to work.
