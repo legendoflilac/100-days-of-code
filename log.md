@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 85: January 20, 2020
+
+**Today's Progress:** I read about treemaps in the D3 documentation and from D3 Graph Gallery and got the initial code in to define some of the constants and load the JSON.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+1. [Treemap Diagram](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [D3 API Reference - Hierarchy](https://github.com/d3/d3-hierarchy/blob/v1.1.9/README.md#hierarchy)
+3. [Observable D3 Treemap](https://observablehq.com/@d3/treemap)
+4. [D3 Graph Gallery Treemap](https://www.d3-graph-gallery.com/graph/treemap_custom.html)
+
 ### Day 84: January 19, 2020
 
 **Today's Progress:** Finished the project and passed the tests! I referenced the example project for help with the legend, which was really the last part I needed to finish with the whole thing. Then I went back and looked at some of the code I didn't understand as much. I chose a light mint color to put as the background for this project since the map is populated with gray tones. 
