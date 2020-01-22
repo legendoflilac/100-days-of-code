@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 87: January 22, 2020
+
+**Today's Progress:** I added some elements to the program but nothing is displaying right now in the svg. I'll have to keep testing it to see what I need to add or change in order to make things work like they're supposed to.
+
+**Thoughts:** It seems I always hit a day where nothing displays when I work on these projects. 
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [Treemap Example](https://codepen.io/freeCodeCamp/pen/KaNGNR)
+3. [Treemap Example by HIC](https://codepen.io/HIC/pen/bxzpRR)
+
 ### Day 86: January 21, 2020
 
 **Today's Progress:** I continued reading about implementing treemaps and learned that only `scaleOrdinal` and `scaleSequential` scales work with the d3 color scales that are built in. I'm going to use `scaleOrdinal` for my color scale this time to learn about how to generate colors that I don't have to explicity define. I also learned about the `sum` and `sort` methods for `d3.hierarchy`. Sort takes two children and then sorts them by a prescribed function--the one most useful for treemaps is `b.height - a.height || b.value - a.value` because it sorts the nodes by descending heights followed by descending values, giving the treemap its characteristic look.
