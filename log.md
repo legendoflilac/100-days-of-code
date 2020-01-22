@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 86: January 21, 2020
+
+**Today's Progress:** I continued reading about implementing treemaps and learned that only `scaleOrdinal` and `scaleSequential` scales work with the d3 color scales that are built in. I'm going to use `scaleOrdinal` for my color scale this time to learn about how to generate colors that I don't have to explicity define. I also learned about the `sum` and `sort` methods for `d3.hierarchy`. Sort takes two children and then sorts them by a prescribed function--the one most useful for treemaps is `b.height - a.height || b.value - a.value` because it sorts the nodes by descending heights followed by descending values, giving the treemap its characteristic look.
+
+**Thoughts:** I'm curious about implementing these features which are new to me, and I've been really hitting the D3 docs hard!
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [D3 API Reference - Hierarchy](https://github.com/d3/d3-hierarchy/blob/v1.1.9/README.md#hierarchy)
+
 ### Day 85: January 20, 2020
 
 **Today's Progress:** I read about treemaps in the D3 documentation and from D3 Graph Gallery and got the initial code in to define some of the constants and load the JSON.
