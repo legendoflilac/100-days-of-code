@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 88: January 23, 2020
+
+**Today's Progress:** So the reason why nothing displayed was because I forgot to add a `.enter()` after my data... Not sure if I'll live that one down for a bit, haha. So now I have a pretty arrangement of rectangles on the screen, and my next step is to add the text to it.
+
+**Thoughts:** I'm upset how long it took for me to realize that small but important element was missing. Well, things move on, I suppose! 
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [Treemap Example](https://codepen.io/freeCodeCamp/pen/KaNGNR)
+3. [Treemap Example by HIC](https://codepen.io/HIC/pen/bxzpRR)
+4. [Enter/Exit](https://www.d3indepth.com/enterexit/)
+
 ### Day 87: January 22, 2020
 
 **Today's Progress:** I added some elements to the program but nothing is displaying right now in the svg. I'll have to keep testing it to see what I need to add or change in order to make things work like they're supposed to.
