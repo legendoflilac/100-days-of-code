@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 89: January 24, 2020
+
+**Today's Progress:** I played with getting the text to display, but I don't want to copy and paste someone else's work and want to work through it on my own. I'm also struggling with getting the `<g>` elements to render right, since there are general elements on top of/with the `<rect>` elements to aid with the tooltip, which is coincidentally also not working. 
+
+**Thoughts:** I don't want to have to look so heavily to the examples/other people's projects, but I'm at a loss for what to do in order to get things to display in the necessary ways. It's frustrating. 
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [Treemap Example](https://codepen.io/freeCodeCamp/pen/KaNGNR)
+3. [Treemap Example by HIC](https://codepen.io/HIC/pen/bxzpRR)
+4. [How to get d3 treemap cell text to wrap and not overflow other cells](https://stackoverflow.com/questions/56623476/how-to-get-d3-treemap-cell-text-to-wrap-and-not-overflow-other-cells)
+
 ### Day 88: January 23, 2020
 
 **Today's Progress:** So the reason why nothing displayed was because I forgot to add a `.enter()` after my data... Not sure if I'll live that one down for a bit, haha. So now I have a pretty arrangement of rectangles on the screen, and my next step is to add the text to it.
