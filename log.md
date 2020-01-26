@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 90: January 25, 2020
+
+**Today's Progress:** I have text displaying now! Plus everything else is displaying correctly--I really need to be more aware of what I write sometimes, haha. I still had to reference some code eventually for some of the formatting, but I messed with the regex some since I didn't like how it would break FIFA into two lines. I also started work on the legend but I'm not super sure how I want it to look--most examples I've seen so far just look the same and I want to do something different. 
+
+**Thoughts:** Looking forward to hopefully having a solid hour to work tomorrow instead of having time broken up across the day.
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [Treemap Example](https://codepen.io/freeCodeCamp/pen/KaNGNR)
+3. [Treemap Example by HIC](https://codepen.io/HIC/pen/bxzpRR)
+
 ### Day 89: January 24, 2020
 
 **Today's Progress:** I played with getting the text to display, but I don't want to copy and paste someone else's work and want to work through it on my own. I'm also struggling with getting the `<g>` elements to render right, since there are general elements on top of/with the `<rect>` elements to aid with the tooltip, which is coincidentally also not working. 
