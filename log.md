@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 91: January 26, 2020
+
+**Today's Progress:** Almost exclusively been working on the legend today since I want to make it different from the example and have more horizontal action going as opposed to the 3-column vertical legends I've been seeing. Unfortunately, I don't know much about how to create legends in this way, so it's been a day of experimenting and still not quite getting where I need to be. 
+
+**Thoughts:** Hopefully within the next few days I'll get the legend working! It's quite difficult to manage and I've written down some of how the math *should* work, but it's still sort of a mystery, haha. 
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [Treemap Example](https://codepen.io/freeCodeCamp/pen/KaNGNR)
+3. [Treemap Example by HIC](https://codepen.io/HIC/pen/bxzpRR)
+4. [Treemap Example by Carl Childers](https://codepen.io/carlchil/pen/QZvwvN)
+
 ### Day 90: January 25, 2020
 
 **Today's Progress:** I have text displaying now! Plus everything else is displaying correctly--I really need to be more aware of what I write sometimes, haha. I still had to reference some code eventually for some of the formatting, but I messed with the regex some since I didn't like how it would break FIFA into two lines. I also started work on the legend but I'm not super sure how I want it to look--most examples I've seen so far just look the same and I want to do something different. 
