@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 93: January 28, 2020
+
+**Today's Progress:** Finished the treemap! I really didn't need to do much to get the text for the legend to appear right. I had to rearrange the logic of my items and change how some data flowed through the legend components, but once that was figured out, I had pretty smooth sailing. I fixed the colors so that they don't repeat in the scale by using an interpolator. After that it was just centering the visualization and adding the appropriate text and ids needed for the tests to pass.
+
+**Thoughts:** I didn't expect to finish this project so soon, but I'm glad to finish it. My heart is torn between starting my own projects and progressing in fCC with the API challenges since I really want to start learning server-side code. I'll probably dabble into the challenges after I commit this but work on personal projects for the last week (!) of this challenge.
+
+**Link(s) to work:**
+1. [Treemap Diagram](https://codepen.io/legendoflilac/pen/xxbQpWE)
+
 ### Day 92: January 27, 2020
 
 **Today's Progress:** Learned that part of my issue with the label was that I needed to put the `rect`s in a container, namely a `g` element, since rectangle elements are not containers, so adding a text element to them will be ignored. Now I'm trying to get the rect elements inside of the g elements so they display correctly.
