@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 92: January 27, 2020
+
+**Today's Progress:** Learned that part of my issue with the label was that I needed to put the `rect`s in a container, namely a `g` element, since rectangle elements are not containers, so adding a text element to them will be ignored. Now I'm trying to get the rect elements inside of the g elements so they display correctly.
+
+**Thoughts:** Legends are such a problem point for me! I really have a hard time with them.
+
+**Link(s) to work:**
+1. [Treemap Diagram (WIP)](https://codepen.io/legendoflilac/pen/xxbQpWE)
+2. [Treemap Example](https://codepen.io/freeCodeCamp/pen/KaNGNR)
+3. [Treemap Example by HIC](https://codepen.io/HIC/pen/bxzpRR)
+4. [Treemap Example by Carl Childers](https://codepen.io/carlchil/pen/QZvwvN)
+5. [d3 Node Labeling](https://stackoverflow.com/questions/11102795/d3-node-labeling)
+
 ### Day 91: January 26, 2020
 
 **Today's Progress:** Almost exclusively been working on the legend today since I want to make it different from the example and have more horizontal action going as opposed to the 3-column vertical legends I've been seeing. Unfortunately, I don't know much about how to create legends in this way, so it's been a day of experimenting and still not quite getting where I need to be. 
