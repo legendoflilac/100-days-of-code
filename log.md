@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 94: January 29, 2020
+
+**Today's Progress:** I finished Managing Packages with Npm yesterday, and got about halfway through the Basic Node and Express challenges. I also started work on a personal project, which will be a choropleth map similar to the one created earlier for the fCC challenge. 
+
+**Thoughts:** Using Glitch has been an interesting experience so far. It looks like a pretty versatile platform for making web apps. Server-side code pretty new territory for me.
+
+**Link(s) to work:**
+1. [Managing Packages with Npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
+2. [Basic Node and Express](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
+3. [New Choropleth Map (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+
 ### Day 93: January 28, 2020
 
 **Today's Progress:** Finished the treemap! I really didn't need to do much to get the text for the legend to appear right. I had to rearrange the logic of my items and change how some data flowed through the legend components, but once that was figured out, I had pretty smooth sailing. I fixed the colors so that they don't repeat in the scale by using an interpolator. After that it was just centering the visualization and adding the appropriate text and ids needed for the tests to pass.
