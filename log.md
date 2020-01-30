@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 95: January 30, 2020
+
+**Today's Progress:** I continued working on my choropleth map, only to find out that it's not so easy when your data doesn't match what you learned in past projects. I'm trying a lot of things to try and get something to display, but I'm not having any luck. 
+
+**Thoughts:** I'm pretty used to struggling against TopoJSON and such by now, but it doesn't make it less frustrating, haha.
+
+**Link(s) to work:**
+1. [IPERS Benefit Payments and Payees by County (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+
 ### Day 94: January 29, 2020
 
 **Today's Progress:** I finished Managing Packages with Npm yesterday, and got about halfway through the Basic Node and Express challenges. I also started work on a personal project, which will be a choropleth map similar to the one created earlier for the fCC challenge. 
