@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 96: January 31, 2020
+
+**Today's Progress:** Still not getting anything to work. I'm trying to research other projects to see what they're using and figure out if I need a projection and all the bells and whistles that go with using that.
+
+**Thoughts:** It's interesting that the fCC project doesn't require the use of projections at all especially when they're a major component of almost every other project I look at. It makes for a difficult time when working on your own map that (potentially) needs a projection.
+
+**Link(s) to work:**
+1. [IPERS Benefit Payments and Payees by County (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+
 ### Day 95: January 30, 2020
 
 **Today's Progress:** I continued working on my choropleth map, only to find out that it's not so easy when your data doesn't match what you learned in past projects. I'm trying a lot of things to try and get something to display, but I'm not having any luck. 
