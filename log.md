@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 97: February 1, 2020
+
+**Today's Progress:** I somehow got the projection and such to work! The rest of my time was finding the data and getting it in a format that I should be able to use for the project itself.
+
+**Thoughts:** Very happy to have something displaying now! Data is very hard to clean up and get formatted. I was told to learn vim macros when I was expressing this to a friend of mine, haha.
+
+**Link(s) to work:**
+1. [IPERS Benefit Payments and Payees by County (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+2. [IPERS Data PDF](https://www.ipers.org/sites/default/files/SAFR-2019%20final.pdf)
+
 ### Day 96: January 31, 2020
 
 **Today's Progress:** Still not getting anything to work. I'm trying to research other projects to see what they're using and figure out if I need a projection and all the bells and whistles that go with using that.
