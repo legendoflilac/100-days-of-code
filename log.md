@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 98: February 2, 2020
+
+**Today's Progress:** I have a working tooltip now and now am trying to puzzle out how to make the colors work in a choropleth style. I'm starting off by trying to convert all of the amounts to `Number` types, which I think will be necessary, but my approach seems like it may not work.
+
+**Thoughts:** Now that the whole getting-the-map-to-render portion is done, this project isn't quite as daunting, but I still have a ways to go.
+
+**Link(s) to work:**
+1. [IPERS Benefit Payments and Payees by County (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+2. [IPERS Data PDF](https://www.ipers.org/sites/default/files/SAFR-2019%20final.pdf)
+
 ### Day 97: February 1, 2020
 
 **Today's Progress:** I somehow got the projection and such to work! The rest of my time was finding the data and getting it in a format that I should be able to use for the project itself.
