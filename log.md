@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Recap of 100 Days of Code / Winter of Code
+
+My goals for this challenge were to create a commitment to coding, work on personal projects, improve my coding ability, and complete the Front End Libraries and Data Visualization portions of the freeCodeCamp curriculum. 
+
+Committing to coding was hard at times, but generally when I sat down to learn or work on my projects I appreciated the time well spent. Some days it felt like I knew nothing and that I wouldn't be able to get out of a rut, but eventually I would either read an explanation or solution, research for the right tools, or fix mistakes in my code that would put me back on the right path. 
+
+I only just started working on a personal project with the IPERS data, inspired by the visualization of the counties of Iowa in the report. I'm glad I worked on a similar project first so I had some background with working with D3 and TopoJSON. I have more ideas for future projects as well as a result of doing this challenge.  
+
+Naturally, I've improved my coding ability by working on these projects. While I wouldn't say I developed the best algorithms or solutions to some problems, I learned to stop blaming the curriculum for not teaching certain skills and instead developed a curiosity and problem-solving mindset that involved a mix of testing out my own theories and reading other's code for insight. 
+
+I completed the Front-End portion just before the half-way point of the 100 days, and the dataviz portion largely took up the rest of it, with some time at the end for my personal project.
+
+Not everything I did was aligned with the spirit with which the 100DoC program was created. I took a much more liberal approach to the idea by allowing time looking at tutorials, reading articles about code, and reading other people's code to count towards my hour of work per day. I also didn't connect with others through social media like the challenge suggests. I may try to integrate the social aspect more in the future.
+
+Overall, I'm pleased with the experience and look forward to continuing to work on my skills.
+
+### Day 100: February 4, 2020
+
+**Today's Progress:** Day 100 ends in an accomplishment--I got the color scale to finally do something on my choropleth map! I switched back to a threshold scale since the quantile scale was breaking the data up into groups that didn't allow for much color variation. Of course, this was after figuring out the way I was connecting the map data to the benefit data was throwing errors. One bug occured specifically on O'Brien County, which I had mistakenly put a different type of apostrophe on, leading the function I was using to return as undefined. Additionally, instead of using the method of filtering the data array for the objects I needed, I looked on StackOverflow to find other solutions using the `find` method. I also researched a regex to separate the large amounts of money with commas in the tooltip.
+
+**Thoughts:** I was determined to make some real progress with this today since it was the final day in the challenge! I'm glad my persistence paid off today and for the 99 days before that.
+
+**Link(s) to work:**
+1. [IPERS Benefit Payments and Payees by County (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+2. [IPERS Data PDF](https://www.ipers.org/sites/default/files/SAFR-2019%20final.pdf)
+3. [Find object by id in an array of JavaScript objects](https://stackoverflow.com/questions/7364150/find-object-by-id-in-an-array-of-javascript-objects)
+4. [Regex](https://stackoverflow.com/questions/721304/insert-commas-into-number-string)
+
 ### Day 99: February 3, 2020
 
 **Today's Progress:** Part of my struggle today has been that everything seems to be bogged down and working slowly on CodePen with this project. I know I'm not running the most efficient code and I have a lot of `console.log`s, but it's all necessary stuff to try and debug this project. I'm still working on getting the color scale to work in a reasonable way, and the way I'm approaching this is to try and convert the amounts to Number types so that they can interpreted by the scale.
