@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# I completed the #100DaysOfCode Challenge on February 4, 2020
 
 ## Contents
 
