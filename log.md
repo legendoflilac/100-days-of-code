@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 99: February 3, 2020
+
+**Today's Progress:** Part of my struggle today has been that everything seems to be bogged down and working slowly on CodePen with this project. I know I'm not running the most efficient code and I have a lot of `console.log`s, but it's all necessary stuff to try and debug this project. I'm still working on getting the color scale to work in a reasonable way, and the way I'm approaching this is to try and convert the amounts to Number types so that they can interpreted by the scale.
+
+**Thoughts:** It's more of the lagginess than anything that's really getting to me today. 
+
+**Link(s) to work:**
+1. [IPERS Benefit Payments and Payees by County (WIP)](https://codepen.io/legendoflilac/pen/KKwLypE)
+2. [IPERS Data PDF](https://www.ipers.org/sites/default/files/SAFR-2019%20final.pdf)
+
 ### Day 98: February 2, 2020
 
 **Today's Progress:** I have a working tooltip now and now am trying to puzzle out how to make the colors work in a choropleth style. I'm starting off by trying to convert all of the amounts to `Number` types, which I think will be necessary, but my approach seems like it may not work.
